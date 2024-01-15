@@ -50,7 +50,11 @@
 					<div class="main-menu-wrap">
 						<!-- logo -->
 						<div class="site-logo">
+<<<<<<< HEAD
 							<a href="index.html">
+=======
+							<a href="index.php">
+>>>>>>> origin/main
 								<img src="assets/img/logo.png" alt="">
 							</a>
 						</div>
@@ -59,6 +63,7 @@
 						<!-- menu start -->
 						<nav class="main-menu">
 							<ul>
+<<<<<<< HEAD
 								<li><a href="index.html">Home</a></li>
 								<li><a href="about.html">About</a></li>
 								<li><a href="Login.html">Login</a></li>
@@ -81,11 +86,39 @@
 										<li><a href="checkout.html">Check Out</a></li>
 										
 										<li><a href="cart.html">Cart</a></li>
+=======
+								<li><a href="index.php">Home</a></li>
+								<li><a href="about.php">About</a></li>
+								<li><a href="Login.php">Login</a></li>
+								<li><a href="#">Pages</a>
+									<ul class="sub-menu">
+										<li><a href="404.php">404 page</a></li>
+										<li><a href="about.php">About</a></li>
+										<li><a href="cart.php">Cart</a></li>
+										<li><a href="checkout.php">Check Out</a></li>
+										<li><a href="contact.php">Contact</a></li>
+										
+										<li><a href="shop.php">Shop</a></li>
+									</ul>
+								</li>
+								
+								<li><a href="contact.php">Contact</a></li>
+								<li><a href="shop.php">Shop</a>
+									<ul class="sub-menu">
+										<li><a href="shop.php">Shop</a></li>
+										<li><a href="checkout.php">Check Out</a></li>
+										
+										<li><a href="cart.php">Cart</a></li>
+>>>>>>> origin/main
 									</ul>
 								</li>
 								<li>
 									<div class="header-icons">
+<<<<<<< HEAD
 										<a class="shopping-cart" href="cart.html"><i class="fas fa-shopping-cart"></i></a>
+=======
+										<a class="shopping-cart" href="cart.php"><i class="fas fa-shopping-cart"></i></a>
+>>>>>>> origin/main
 										<a class="mobile-hide search-bar-icon" href="#"><i class="fas fa-search"></i></a>
 									</div>
 								</li>
@@ -200,7 +233,11 @@
     	<div class="container">
         	<h3>December sale is on! <br> with big <span class="orange-text">Discount...</span></h3>
             <div class="sale-percent"><span>Sale! <br> Upto</span>50% <span>off</span></div>
+<<<<<<< HEAD
             <a href="shop.html" class="cart-btn btn-lg">Shop Now</a>
+=======
+            <a href="shop.php" class="cart-btn btn-lg">Shop Now</a>
+>>>>>>> origin/main
         </div>
     </section>
 	<!-- end shop banner -->
@@ -362,11 +399,19 @@
 					<div class="footer-box pages">
 						<h2 class="widget-title">Pages</h2>
 						<ul>
+<<<<<<< HEAD
 							<li><a href="index.html">Home</a></li>
 							<li><a href="about.html">About</a></li>
 							<li><a href="services.html">Shop</a></li>
 							
 							<li><a href="contact.html">Contact</a></li>
+=======
+							<li><a href="index.php">Home</a></li>
+							<li><a href="about.php">About</a></li>
+							<li><a href="services.php">Shop</a></li>
+							
+							<li><a href="contact.php">Contact</a></li>
+>>>>>>> origin/main
 						</ul>
 					</div>
 				</div>
@@ -374,7 +419,11 @@
 					<div class="footer-box subscribe">
 						<h2 class="widget-title">Subscribe</h2>
 						<p>Subscribe to our mailing list to get the latest updates.</p>
+<<<<<<< HEAD
 						<form action="index.html">
+=======
+						<form action="index.php">
+>>>>>>> origin/main
 							<input type="email" placeholder="Email">
 							<button type="submit"><i class="fas fa-paper-plane"></i></button>
 						</form>
